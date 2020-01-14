@@ -14,7 +14,8 @@ This will open a window in your GitHub Desktop environment. Check the local path
 
 ![](images/step1.B.png)
 
-Open the directory where you have installed GitHub Desktop. Under GitHub Desktop/Classes/Session_2 you will see the following
+Open the directory where you have installed GitHub Desktop. Under GitHub Desktop/Classes/Session_2 you will see the following files. 
+
 ![](images/step1.C.png)
 
 ### Step 2. Make Changes
