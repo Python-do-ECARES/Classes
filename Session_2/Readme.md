@@ -1,3 +1,5 @@
+# Using GitHub Desktop
+This tutorial explains how to use GitHub Desktop to create and maintain own repositories. 
 
 ### Step 1. Clone repository
 Go to the relevant repo page on GitHub and click on the "Clone or download" button.
@@ -6,11 +8,11 @@ Go to the relevant repo page on GitHub and click on the "Clone or download" butt
 
 Choose "Open in Desktop".
 
-![](images/step2.png)
+![](images/step1.A.png)
 
 This will open a window in your GitHub Desktop environment. Check the local path where to clone the repo and click "Clone".
 
-![](images/step3.png)
+![](images/ste1.B.png)
 
 ### Step 2. Make Changes
 Open the file "Main_init.py" in your favourite compiler (e.g. VS Code). Add a comment line with your name.
