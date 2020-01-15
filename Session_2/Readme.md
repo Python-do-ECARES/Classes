@@ -25,7 +25,7 @@ Open *Example.txt*. Add a comment line with your name.
 
 Save the file. Changes will be displayed in GitHub Desktop as follows.
 
-![](images/step5.png)
+![](images/step2.A.png)
 
 ### Step 3. Create Your Own Branch And Commit Changes
 Click on "Master" in the top panel. Then click on "New Branch". **Never directly commit your changes to the Master**.
