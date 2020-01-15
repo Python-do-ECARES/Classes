@@ -53,7 +53,7 @@ Push changes to your branch.
 ![](images/step2.G.png)
 
 
-### Step 3. Next Steps
+### Step 4. Next Steps
 Come back to main "Classes" page. You will display the following. Notice that now there are 2 branches. Click on "branches".
 
 ![](images/step3.png)
