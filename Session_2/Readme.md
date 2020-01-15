@@ -30,7 +30,7 @@ Save the file. Changes will be displayed in GitHub Desktop as follows.
 ### Step 3. Create Your Own Branch And Commit Changes
 Click on "Master" in the top panel. Then click on "New Branch". **Never directly commit your changes to the Master**.
 
-![](images/step6.png)
+![](images/step2.B.png)
 
 Give the new branch your name. Then click "Create Branch".
 
