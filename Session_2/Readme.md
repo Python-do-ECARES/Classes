@@ -38,7 +38,7 @@ Give the new branch your name. Then click "Create Branch".
 
 Switch changes to your own branch. 
 
-![](images/step8.png)
+![](images/step2.D.png)
 
 Publish your branch online.
 
