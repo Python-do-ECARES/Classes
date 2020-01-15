@@ -42,7 +42,7 @@ Switch changes to your own branch.
 
 Publish your branch online.
 
-![](images/step9.png)
+![](images/step2.E.png)
 
 Commit changes to your branch. 
 
