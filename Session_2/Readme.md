@@ -2,7 +2,7 @@
 This tutorial explains how to use GitHub Desktop to create and maintain own repositories for this course.
 
 ### Step 1. Clone repository
-Go to the relevant repo page on GitHub and click on the "Clone or download" button.
+Go to the [Classes](https://github.com/Python-do-ECARES/Classes) repo page on GitHub and click on the "Clone or download" button.
 
 ![](images/step1.png)
 
