@@ -1,77 +1,8 @@
-# First Steps in GitHub
-This tutorial explains how to use GitHub Desktop to create and maintain own repositories for this course.
+# Session 2
 
-### Step 1. Clone repository
-Go to the [Classes](https://github.com/Python-do-ECARES/Classes) repository on GitHub and click on the "Clone or download" button.
+In this session we cover
 
-![](images/step1.png)
+- What are Git, GitHub, GitHub Desktop
+- How to use GitHub and GitHub Desktop
 
-Choose "Open in Desktop".
-
-![](images/step1.A.png)
-
-This will open a window in your GitHub Desktop environment. Check the local path where to clone the repository and click "Clone".
-
-![](images/step1.B.png)
-
-Open the directory where you have installed GitHub Desktop. Under GitHub Desktop/Classes/Session_2 you will see the following files. 
-
-![](images/step1.C.png)
-
-### Step 2. Make Changes
-Open *Example.txt*. Add a comment line with your name.
-
-![](images/step2.png)
-
-Save the file. Changes will be displayed in GitHub Desktop as follows.
-
-![](images/step2.A.png)
-
-Create Your Own Branch And Commit Changes
-Click on "Master" in the top panel. Then click on "New Branch". **Never directly commit your changes to the Master during this course**.
-
-![](images/step2.B.png)
-
-Give the new branch your name. Then click "Create Branch".
-
-![](images/step2.C.png)
-
-Switch changes to your own branch. 
-
-![](images/step2.D.png)
-
-Publish your branch online.
-
-![](images/step2.E.png)
-
-In the bottom-left part of the window you can assign a **summary** and a **description** to your changes. Make sure to use *standardised summaries*, as explained below. Then commit your changes to you own branch.
-
-![](images/step2.F.png)
-
-Push changes to your branch.
-
-![](images/step2.G.png)
-
-
-### Step 3. Next Steps
-Come back to main "Classes" page. You will display the following. Notice that now there are 2 branches. Click on "branches".
-
-![](images/step3.png)
-
-Your directory will now appear below "branches" as follows.
-
-![](images/step3.A.png)
-
-From now on, you can commit your changes to your own branch anytime you want. You can also navigate to other people branches and see what they are up to. **Please make sure to only commit to your own branch**.
-
-## When and How to Commit and Push
-There is a substantial difference between the "commit" and "push" command. *Committing changes* to a branch, means that you are "saving" your changes. *Pushing changes* means, instead, that you are publishing them online on GitHub. If you are working on a public repository, this implies that everybody can see what you did. With this respect, we recomment to commit changes regurlarly (you can always revert them back), but to only push them online if you have made a stable change. Think of the pushing action as a way of creating different stable releases of your code. When committing chages in GitHub Desktop, it is possible to give a summary and a brief description of the change. We encourage you to adopt the following standards.
-
-- **Summary** should be either **Minor Change**, **Major Change** or **Bug Fixes**. The first should indicate small changes in syntaxis or general improvements. The second to major modifications (e.g. add new section or function), while the third is to notify that you have fixed some bug.
-
-- **Description** should briefly explain what the summary refers to. 
-
-Suppose you create a new function for data cleaning in your code. When pushing this change to GitHub, you want to give **Major Change** as summary and "added function for data cleaning" as description.
-
-Following consistently these rules will make you (hopefully) remember what you did if you will look again at your code after a period of inactivity. A tidy pushing activities will create a full history of changes in GitHub that you can scroll through to check different versions of your code. Finally, it will also help other people to understand your work. 
 
