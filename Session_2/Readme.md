@@ -34,7 +34,7 @@ Click on "Master" in the top panel. Then click on "New Branch". **Never directly
 
 Give the new branch your name. Then click "Create Branch".
 
-![](images/step7.png)
+![](images/step2.C.png)
 
 Switch changes to your own branch. 
 
