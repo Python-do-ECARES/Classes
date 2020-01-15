@@ -54,11 +54,11 @@ Push changes to your branch.
 
 
 ### Step 3. Next Steps
-Come back to main "Classes" page. You will display the following. Notice that now there are 2 branches.
+Come back to main "Classes" page. You will display the following. Notice that now there are 2 branches. Click on "branches".
 
 ![](images/step3.png)
 
-Your directory will now appear under the repo GitHub webpage as follows.
+Your directory will now appear below "branches" as follows.
 
 ![](images/step3.A.png)
 
