@@ -44,7 +44,7 @@ Publish your branch online.
 
 ![](images/step2.E.png)
 
-In the bottom-left part of the window you can assign a **summary** and a **description** to your changes. Make sure to use *standardised summaries* as explained below. Then commit your changes to you own branch.
+In the bottom-left part of the window you can assign a **summary** and a **description** to your changes. Make sure to use *standardised summaries*, as explained below. Then commit your changes to you own branch.
 
 ![](images/step2.F.png)
 
