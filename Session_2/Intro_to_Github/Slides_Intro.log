@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.7)  15 JAN 2020 10:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.7)  15 JAN 2020 14:08
 entering extended mode
 **./Slides_Intro.tex
 (Slides_Intro.tex
@@ -784,22 +784,22 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (Slides_Intro.aux)
 \openout1 = `Slides_Intro.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 4
-8.
+9.
 
 ("C:\Users\fabri\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ppl.fd"
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
@@ -861,7 +861,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box56
-Package hyperref Info: Link coloring ON on input line 48.
+Package hyperref Info: Link coloring ON on input line 49.
 
 ("C:\Users\fabri\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -877,9 +877,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count163
 )
-LaTeX Info: Redefining \ref on input line 48.
-LaTeX Info: Redefining \pageref on input line 48.
-LaTeX Info: Redefining \nameref on input line 48.
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
  (Slides_Intro.out) (Slides_Intro.out)
 \@outlinefile=\write5
 \openout5 = `Slides_Intro.out'.
@@ -914,208 +914,208 @@ Dictionary: translator-theorem-dictionary, Language: English
 
 ]
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-64.
+65.
 
 ("C:\Users\fabri\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-64.
+65.
  ("C:\Users\fabri\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszplm.fd
 "
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-64.
+65.
 
 ("C:\Users\fabri\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 64.
+(Font)              scaled to size 11.40997pt on input line 65.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 64.
+(Font)              scaled to size 8.33606pt on input line 65.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 64.
+(Font)              scaled to size 6.25204pt on input line 65.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 64.
+(Font)              scaled to size 11.40997pt on input line 65.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 64.
+(Font)              scaled to size 8.33606pt on input line 65.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 64.
+(Font)              scaled to size 6.25204pt on input line 65.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-64.
+65.
  ("C:\Users\fabri\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zplm.fd
 "
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 ) [3
 
-] [4
+]
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 74.
+ [4
 
 ] [5
 
+] [6
+
 ]
-<../images/step1.png, id=222, 1443.14156pt x 708.39656pt>
+<../images/step1.png, id=272, 1443.14156pt x 708.39656pt>
 File: ../images/step1.png Graphic file (type png)
 <use ../images/step1.png>
-Package pdftex.def Info: ../images/step1.png  used on input line 85.
+Package pdftex.def Info: ../images/step1.png  used on input line 95.
 (pdftex.def)             Requested size: 358.50229pt x 175.97453pt.
- [6
-
- <../images/step1.png>]
-<../images/step1.A.png, id=258, 1442.38875pt x 706.89093pt>
-File: ../images/step1.A.png Graphic file (type png)
-<use ../images/step1.A.png>
-Package pdftex.def Info: ../images/step1.A.png  used on input line 92.
-(pdftex.def)             Requested size: 358.50229pt x 175.68681pt.
  [7
 
+ <../images/step1.png>]
+<../images/step1.A.png, id=311, 1442.38875pt x 706.89093pt>
+File: ../images/step1.A.png Graphic file (type png)
+<use ../images/step1.A.png>
+Package pdftex.def Info: ../images/step1.A.png  used on input line 102.
+(pdftex.def)             Requested size: 358.50229pt x 175.68681pt.
+ [8
+
  <../images/step1.A.png>]
-<../images/step1.B.png, id=293, 720.44156pt x 497.60907pt>
+<../images/step1.B.png, id=347, 720.44156pt x 497.60907pt>
 File: ../images/step1.B.png Graphic file (type png)
 <use ../images/step1.B.png>
-Package pdftex.def Info: ../images/step1.B.png  used on input line 99.
+Package pdftex.def Info: ../images/step1.B.png  used on input line 109.
 (pdftex.def)             Requested size: 278.83578pt x 192.58614pt.
 
-Overfull \vbox (0.9374pt too high) detected at line 99
- []
-
-[8
-
- <../images/step1.B.png>]
-<../images/step1.C.png, id=327, 904.88063pt x 637.63219pt>
-File: ../images/step1.C.png Graphic file (type png)
-<use ../images/step1.C.png>
-Package pdftex.def Info: ../images/step1.C.png  used on input line 106.
-(pdftex.def)             Requested size: 278.83578pt x 196.47693pt.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 106.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 106.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 106.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 106.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 106.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 106.
-
-Overfull \vbox (4.82819pt too high) detected at line 106
+Overfull \vbox (0.9374pt too high) detected at line 109
  []
 
 [9
 
- <../images/step1.C.png>]
-<../images/step2.png, id=361, 1015.54407pt x 573.64313pt>
-File: ../images/step2.png Graphic file (type png)
-<use ../images/step2.png>
-Package pdftex.def Info: ../images/step2.png  used on input line 113.
-(pdftex.def)             Requested size: 318.67209pt x 180.00705pt.
- [10
+ <../images/step1.B.png>]
+<../images/step1.C.png, id=383, 904.88063pt x 637.63219pt>
+File: ../images/step1.C.png Graphic file (type png)
+<use ../images/step1.C.png>
+Package pdftex.def Info: ../images/step1.C.png  used on input line 116.
+(pdftex.def)             Requested size: 278.83578pt x 196.47693pt.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 116.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 116.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 116.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 116.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 116.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 116.
 
- <../images/step2.png>]
-<../images/step2.A.png, id=396, 727.21687pt x 500.62032pt>
-File: ../images/step2.A.png Graphic file (type png)
-<use ../images/step2.A.png>
-Package pdftex.def Info: ../images/step2.A.png  used on input line 120.
-(pdftex.def)             Requested size: 278.83578pt x 191.95644pt.
-
-Overfull \vbox (0.3077pt too high) detected at line 120
+Overfull \vbox (4.82819pt too high) detected at line 116
  []
 
-[11
+[10
 
- <../images/step2.A.png>]
-<../images/step2.B.png, id=430, 725.71124pt x 502.87875pt>
-File: ../images/step2.B.png Graphic file (type png)
-<use ../images/step2.B.png>
-Package pdftex.def Info: ../images/step2.B.png  used on input line 127.
-(pdftex.def)             Requested size: 278.83578pt x 193.2214pt.
+ <../images/step1.C.png>]
+<../images/step2.png, id=419, 1015.54407pt x 573.64313pt>
+File: ../images/step2.png Graphic file (type png)
+<use ../images/step2.png>
+Package pdftex.def Info: ../images/step2.png  used on input line 123.
+(pdftex.def)             Requested size: 318.67209pt x 180.00705pt.
+ [11
 
-Overfull \vbox (1.57266pt too high) detected at line 127
+ <../images/step2.png>]
+<../images/step2.A.png, id=455, 727.21687pt x 500.62032pt>
+File: ../images/step2.A.png Graphic file (type png)
+<use ../images/step2.A.png>
+Package pdftex.def Info: ../images/step2.A.png  used on input line 130.
+(pdftex.def)             Requested size: 278.83578pt x 191.95644pt.
+
+Overfull \vbox (0.3077pt too high) detected at line 130
  []
 
 [12
 
- <../images/step2.B.png>]
-<../images/step2.C.png, id=464, 726.46407pt x 501.37312pt>
-File: ../images/step2.C.png Graphic file (type png)
-<use ../images/step2.C.png>
-Package pdftex.def Info: ../images/step2.C.png  used on input line 135.
-(pdftex.def)             Requested size: 278.83578pt x 192.44398pt.
+ <../images/step2.A.png>]
+<../images/step2.B.png, id=491, 725.71124pt x 502.87875pt>
+File: ../images/step2.B.png Graphic file (type png)
+<use ../images/step2.B.png>
+Package pdftex.def Info: ../images/step2.B.png  used on input line 137.
+(pdftex.def)             Requested size: 278.83578pt x 193.2214pt.
 
-Overfull \vbox (0.79524pt too high) detected at line 135
+Overfull \vbox (1.57266pt too high) detected at line 137
  []
 
 [13
 
- <../images/step2.C.png>]
-<../images/step2.D.png, id=499, 727.21687pt x 499.11469pt>
-File: ../images/step2.D.png Graphic file (type png)
-<use ../images/step2.D.png>
-Package pdftex.def Info: ../images/step2.D.png  used on input line 142.
-(pdftex.def)             Requested size: 278.83578pt x 191.3791pt.
- [14
-
- <../images/step2.D.png>]
-<../images/step2.E.png, id=533, 726.46407pt x 502.12593pt>
-File: ../images/step2.E.png Graphic file (type png)
-<use ../images/step2.E.png>
-Package pdftex.def Info: ../images/step2.E.png  used on input line 149.
-(pdftex.def)             Requested size: 278.83578pt x 192.73296pt.
-
-Overfull \vbox (1.08421pt too high) detected at line 149
- []
-
-[15
-
- <../images/step2.E.png>]
-<../images/step2.F.png, id=567, 727.21687pt x 499.8675pt>
-File: ../images/step2.F.png Graphic file (type png)
-<use ../images/step2.F.png>
-Package pdftex.def Info: ../images/step2.F.png  used on input line 156.
-(pdftex.def)             Requested size: 278.83578pt x 191.66777pt.
- [16
-
- <../images/step2.F.png>]
-<../images/step2.G.png, id=601, 726.46407pt x 501.37312pt>
-File: ../images/step2.G.png Graphic file (type png)
-<use ../images/step2.G.png>
-Package pdftex.def Info: ../images/step2.G.png  used on input line 164.
+ <../images/step2.B.png>]
+<../images/step2.C.png, id=528, 726.46407pt x 501.37312pt>
+File: ../images/step2.C.png Graphic file (type png)
+<use ../images/step2.C.png>
+Package pdftex.def Info: ../images/step2.C.png  used on input line 145.
 (pdftex.def)             Requested size: 278.83578pt x 192.44398pt.
 
-Overfull \vbox (0.79524pt too high) detected at line 164
+Overfull \vbox (0.79524pt too high) detected at line 145
  []
 
-[17
+[14
+
+ <../images/step2.C.png>]
+<../images/step2.D.png, id=564, 727.21687pt x 499.11469pt>
+File: ../images/step2.D.png Graphic file (type png)
+<use ../images/step2.D.png>
+Package pdftex.def Info: ../images/step2.D.png  used on input line 152.
+(pdftex.def)             Requested size: 278.83578pt x 191.3791pt.
+ [15
+
+ <../images/step2.D.png>]
+<../images/step2.E.png, id=600, 726.46407pt x 502.12593pt>
+File: ../images/step2.E.png Graphic file (type png)
+<use ../images/step2.E.png>
+Package pdftex.def Info: ../images/step2.E.png  used on input line 159.
+(pdftex.def)             Requested size: 278.83578pt x 192.73296pt.
+
+Overfull \vbox (1.08421pt too high) detected at line 159
+ []
+
+[16
+
+ <../images/step2.E.png>]
+<../images/step2.F.png, id=636, 727.21687pt x 499.8675pt>
+File: ../images/step2.F.png Graphic file (type png)
+<use ../images/step2.F.png>
+Package pdftex.def Info: ../images/step2.F.png  used on input line 166.
+(pdftex.def)             Requested size: 278.83578pt x 191.66777pt.
+ [17
+
+ <../images/step2.F.png>]
+<../images/step2.G.png, id=672, 726.46407pt x 501.37312pt>
+File: ../images/step2.G.png Graphic file (type png)
+<use ../images/step2.G.png>
+Package pdftex.def Info: ../images/step2.G.png  used on input line 174.
+(pdftex.def)             Requested size: 278.83578pt x 192.44398pt.
+
+Overfull \vbox (0.79524pt too high) detected at line 174
+ []
+
+[18
 
  <../images/step2.G.png>]
-<../images/step3.png, id=635, 1443.14156pt x 706.13812pt>
+<../images/step3.png, id=708, 1443.14156pt x 706.13812pt>
 File: ../images/step3.png Graphic file (type png)
 <use ../images/step3.png>
-Package pdftex.def Info: ../images/step3.png  used on input line 172.
+Package pdftex.def Info: ../images/step3.png  used on input line 182.
 (pdftex.def)             Requested size: 358.50229pt x 175.41351pt.
- [18
+ [19
 
  <../images/step3.png>]
-<../images/step3.A.png, id=669, 1444.64719pt x 706.89093pt>
+<../images/step3.A.png, id=745, 1444.64719pt x 706.89093pt>
 File: ../images/step3.A.png Graphic file (type png)
 <use ../images/step3.A.png>
-Package pdftex.def Info: ../images/step3.A.png  used on input line 179.
+Package pdftex.def Info: ../images/step3.A.png  used on input line 189.
 (pdftex.def)             Requested size: 398.3386pt x 194.90794pt.
 
-Overfull \vbox (3.2592pt too high) detected at line 179
+Overfull \vbox (3.2592pt too high) detected at line 189
  []
 
-[19
+[20
 
- <../images/step3.A.png>]
-LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 187.
- [20
-
-] [21
+ <../images/step3.A.png>] [21
 
 ] [22
 
@@ -1124,6 +1124,10 @@ LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
 ] [24
 
 ] [25
+
+] [26
+
+] [27
 
 ]
 \tf@nav=\write6
@@ -1135,31 +1139,33 @@ LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
 \tf@snm=\write8
 \openout8 = `Slides_Intro.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 220.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 220.
- (Slides_Intro.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 220.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 220.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 238.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 238.
+
+(Slides_Intro.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 238.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 238.
 Package rerunfilecheck Info: File `Slides_Intro.out' has not changed.
-(rerunfilecheck)             Checksum: 59A74C262C645920EB3E3635DD14BB4F;218.
+(rerunfilecheck)             Checksum: 0153EFEE36C24032230F480FDFB553A2;220.
  ) 
 Here is how much of TeX's memory you used:
- 18003 strings out of 492483
- 347682 string characters out of 3121590
- 432022 words of memory out of 3000000
+ 18009 strings out of 492483
+ 347705 string characters out of 3121590
+ 433668 words of memory out of 3000000
  21816 multiletter control sequences out of 15000+200000
- 24706 words of font info for 70 fonts, out of 3000000 for 9000
+ 25335 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,19n,58p,799b,765s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/fabri/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
 }<C:/Users/fabri/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-symbols/msam10.pfb><C:/Users/fabri/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/urw/palatino/uplb8a.pfb><C:/Users/fabri/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/urw/palatino/uplr8a.pfb><C:/Users/fabri/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Slides_Intro.pdf (25 pages, 753383 bytes).
+cm/cmmi10.pfb><C:/Users/fabri/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/symbols/msam10.pfb><C:/Users/fabri/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/fabri/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/fabri/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Slides_Intro.pdf (27 pages, 787852 bytes).
 PDF statistics:
- 930 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
+ 1055 PDF objects out of 1200 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
  145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
