@@ -2,7 +2,7 @@
 This tutorial explains how to use GitHub Desktop to create and maintain own repositories for this course.
 
 ### Step 1. Clone repository
-Go to the [Classes](https://github.com/Python-do-ECARES/Classes) repo page on GitHub and click on the "Clone or download" button.
+Go to the [Classes](https://github.com/Python-do-ECARES/Classes) repository on GitHub and click on the "Clone or download" button.
 
 ![](images/step1.png)
 
@@ -10,7 +10,7 @@ Choose "Open in Desktop".
 
 ![](images/step1.A.png)
 
-This will open a window in your GitHub Desktop environment. Check the local path where to clone the repo and click "Clone".
+This will open a window in your GitHub Desktop environment. Check the local path where to clone the repository and click "Clone".
 
 ![](images/step1.B.png)
 
@@ -65,7 +65,7 @@ Your directory will now appear below "branches" as follows.
 From now on, you can commit your changes to your own branch anytime you want. You can also navigate to other people branches and see what they are up to. **Please make sure to only commit to your own branch**.
 
 ## When and How to Commit and Push
-There is a substantial difference between the "commit" and "push" command. *Committing changes* to a branch, means that you are "saving" your changes. *Pushing changes* means, instead, that you are publishing them online on GitHub. If you are working on a public repo, this implies that everybody can see what you did. With this respect, we recomment to commit changes regurlarly (you can always revert them back), but to only push them online if you have made a stable change. Think of the pushing action as a way of creating different stable releases of your code. When committing chages in GitHub Desktop, it is possible to give a summary and a brief description of the change. We encourage you to adopt the following standards.
+There is a substantial difference between the "commit" and "push" command. *Committing changes* to a branch, means that you are "saving" your changes. *Pushing changes* means, instead, that you are publishing them online on GitHub. If you are working on a public repository, this implies that everybody can see what you did. With this respect, we recomment to commit changes regurlarly (you can always revert them back), but to only push them online if you have made a stable change. Think of the pushing action as a way of creating different stable releases of your code. When committing chages in GitHub Desktop, it is possible to give a summary and a brief description of the change. We encourage you to adopt the following standards.
 
 - **Summary** should be either **Minor Change**, **Major Change** or **Bug Fixes**. The first should indicate small changes in syntaxis or general improvements. The second to major modifications (e.g. add new section or function), while the third is to notify that you have fixed some bug.
 
