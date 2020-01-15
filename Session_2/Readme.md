@@ -60,7 +60,9 @@ Come back to main "Classes" page. You will display the following. Notice that no
 
 Your directory will now appear under the repo GitHub webpage as follows.
 
-From now on, you can commit your chanes to your own branch anytime you want. You can also navigate to other people branches and see what they are up to. **Do not commit to their branches directly**. Instead, you can open a pull request to collaborate.
+![](images/step3.A.png)
+
+From now on, you can commit your changes to your own branch anytime you want. You can also navigate to other people branches and see what they are up to. **Please make sure to only commit to your own branch**.
 
 ## When and How to Commit and Push
 There is a substantial difference between the "commit" and "push" command. Committing changes to a branch, means that you are "saving" your changes. Pushing changes means, instead, that you are publishing them online on GitHub. With this respect, we recomment to commit changes regurlarly (you can always revert them back), but to only push them online if you have made a stable change. Think of the pushing action as a way of creating different stable releases of your code. When committing chages in GitHub Desktop, it is possible to give a summary and a brief description of the change. We encourage you to adopt the following standard.
