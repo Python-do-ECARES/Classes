@@ -1,2 +1,4 @@
 \beamer@sectionintoc {1}{Introduction}{2}{0}{1}
 \beamer@sectionintoc {2}{First Steps With GitHub Desktop}{5}{0}{2}
+\beamer@sectionintoc {3}{Commit and Push}{21}{0}{3}
+\beamer@sectionintoc {4}{More Functionalities}{25}{0}{4}
