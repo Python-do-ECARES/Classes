@@ -46,7 +46,7 @@ Publish your branch online.
 
 Commit changes to your branch. 
 
-![](images/step10.png)
+![](images/step2.F.png)
 
 Push changes to your branch.
 
