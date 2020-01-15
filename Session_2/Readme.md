@@ -1,4 +1,4 @@
-# Using GitHub Desktop
+# First Steps in GitHub
 This tutorial explains how to use GitHub Desktop to create and maintain own repositories. 
 
 ### Step 1. Clone repository
