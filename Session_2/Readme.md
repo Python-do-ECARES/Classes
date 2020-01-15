@@ -27,7 +27,7 @@ Save the file. Changes will be displayed in GitHub Desktop as follows.
 
 ![](images/step2.A.png)
 
-### Step 3. Create Your Own Branch And Commit Changes
+Create Your Own Branch And Commit Changes
 Click on "Master" in the top panel. Then click on "New Branch". **Never directly commit your changes to the Master during this course**.
 
 ![](images/step2.B.png)
@@ -53,7 +53,7 @@ Push changes to your branch.
 ![](images/step2.G.png)
 
 
-### Step 4. Next Steps
+### Step 3. Next Steps
 Come back to main "Classes" page. You will display the following. Notice that now there are 2 branches. Click on "branches".
 
 ![](images/step3.png)
