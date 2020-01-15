@@ -8,3 +8,5 @@ Session_2/Intro_to_Github/Slides_Intro.nav
 *.out
 *.tex
 *.toc
+*.snm
+*.gz
