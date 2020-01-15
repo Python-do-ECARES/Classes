@@ -52,11 +52,14 @@ Push changes to your branch.
 
 ![](images/step2.G.png)
 
+
+### Step 3. Next Steps
+Come back to main "Classes" page. You will display the following. Notice that now there are 2 branches.
+
+![](images/step3.png)
+
 Your directory will now appear under the repo GitHub webpage as follows.
 
-![](images/step12.png)
-
-### Step 4. Next Steps
 From now on, you can commit your chanes to your own branch anytime you want. You can also navigate to other people branches and see what they are up to. **Do not commit to their branches directly**. Instead, you can open a pull request to collaborate.
 
 ## When and How to Commit and Push
