@@ -73,5 +73,5 @@ There is a substantial difference between the "commit" and "push" command. *Comm
 
 Suppose you create a new function for data cleaning in your code. When pushing this change to GitHub, you want to give **Major Change** as summary and "added function for data cleaning" as description.
 
-Consistently follow these rules will make you (hopefully) remember what you did if you will look again at your code after a period of inactivity. A tidy pushing activities will create a full history of changes in GitHub that you can scroll through to check different versions of your code. Finally, it will also help other people to understand your work. 
+Following consistently these rules will make you (hopefully) remember what you did if you will look again at your code after a period of inactivity. A tidy pushing activities will create a full history of changes in GitHub that you can scroll through to check different versions of your code. Finally, it will also help other people to understand your work. 
 
