@@ -50,7 +50,7 @@ In the bottom-left part of the window you can assign a **summary** and a **descr
 
 Push changes to your branch.
 
-![](images/step11.png)
+![](images/step2.G.png)
 
 Your directory will now appear under the repo GitHub webpage as follows.
 
