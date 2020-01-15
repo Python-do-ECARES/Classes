@@ -1,5 +1,5 @@
 # First Steps in GitHub
-This tutorial explains how to use GitHub Desktop to create and maintain own repositories. 
+This tutorial explains how to use GitHub Desktop to create and maintain own repositories for this course.
 
 ### Step 1. Clone repository
 Go to the relevant repo page on GitHub and click on the "Clone or download" button.
