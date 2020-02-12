@@ -1,1 +1,0 @@
-Contains images for instructions
