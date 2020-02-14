@@ -1,4 +1,4 @@
-# Session 2
+# Session 3
 
 In this session we cover
 
