@@ -1,5 +1,3 @@
-Readme
-
 **APIs with Python** 
 
 
