@@ -1,10 +1,12 @@
 **APIs with Python** 
 
 
-We will explore a couple of popular and useful APIs together. APIs we might cover:
+In Slides
+1. Introduction to APIs 
+2. JSON
+3. Hardcoding access with `requests`
+4. Popular pre-written modules for geocoding and mapping
 
-- Twitter
-- COMTRADE
-- Open FIGI
-
-
+External scripts
+1. Trade data with Comtrade API (kudos Federico)
+2. The Twitter API (kudos Charles)
