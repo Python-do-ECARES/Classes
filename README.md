@@ -1,6 +1,6 @@
 # Class Schedule
 This repository contains the folders with the content of each class. Please check them for the references of each meeting.
-The schedule goes as follows (**always 10-12AM in room R42.3.103**).
+The schedule goes as follows (**always 10-12AM in room R42.3.103**)
 
 | Session       | Date         | Discussant  | Topic       |       References                                                                                                                               |            
 | ------------- | -------------|-------------|-------------|  ----------------------------------------------------------------------------------------------------------------------------------- |
